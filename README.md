@@ -1,6 +1,6 @@
 # Matt | E-Discovery, Security, Forensics & AI
 
-I build tools that solve hard problems in document processing, content analysis, and information retrieval. My work sits at the intersection of forensic analysis, machine learning, and production-grade engineering.
+I build tools that I need for my work, most involve forensic analysis, machine learning, and ediscovery related tools. I've been working with ML\LLMs for over 15 years, in theoretical research and applied/production.
 
 ## Featured Projects
 
