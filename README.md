@@ -1,7 +1,3 @@
-# Matt | E-Discovery, Security, Forensics & AI
-
-I build tools that I need for my work, most involve forensic analysis, machine learning, and ediscovery related tools. I've been working with ML\LLMs for over 15 years, in theoretical research and applied/production.
-
 ## Featured Projects
 
 ### [ChelatedAI](https://github.com/mattmre/CHELATEDAI)
@@ -19,15 +15,6 @@ Scan and clean Twitter/X post history using local LLM analysis via Ollama with o
 ### [rv-media-analysis-starter-kit](https://github.com/mattmre/rv-media-analysis-starter-kit)
 Structured framework for media-driven due diligence on recreational vehicles. AI-assisted photo and video analysis to identify defects, estimate repair costs, and build evidence-based negotiation packets.
 
-## Tech Stack
-
-**Languages:** Python, PowerShell, SQL
-
-**ML/AI:** PyTorch, PaddleOCR, Tesseract, Sentence Transformers, Ollama, Claude API
-
-**Infrastructure:** Docker, FastAPI, Django, Celery, RabbitMQ, Redis, PostgreSQL, Qdrant, OpenSearch
-
-**Domains:** E-Discovery, Digital Forensics, Information Retrieval, NLP, Computer Vision, OCR
 
 ## Links
 
