@@ -5,3 +5,6 @@
 ## Links
 
 - [mattmre.com](https://mattmre.com)
+- [myainewsbot.com](https://myainewsbot.com)
+- [nomorebsnews.com](https://nomorebsnews.com)
+- [evokore.com](https://evokore.com)
